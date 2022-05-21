@@ -1,0 +1,35 @@
+.toperHead{
+    background-color: rgb(49, 153, 244);
+    width: 100%;
+    height: 50px;
+}
+
+.navbar{
+    height: 60px;
+}
+
+.bnavbar-brand{
+    margin: 0;
+    
+}
+#mupi{
+    font-family: 'Creepster', cursive;
+    font-size: 3rem;
+    margin-left: 55px;
+    color: rgb(239, 31, 31);
+}
+
+#department{
+    font-family: 'Aclonica', sans-serif;
+    font-size: 1.7rem;
+    margin-left: 20px;
+    text-transform: capitalize;
+    text-decoration: underline;
+   
+}
+
+#searchTxt{
+    width: 200px; 
+}
+
+ /* font-family: 'Grape Nuts', cursive; */
